@@ -4,4 +4,4 @@
 🤝 Open to: Collaborations on C++ projects, Arduino systems, and coding tutorials for YouTube
 📩 Contact: sriparnoroy4@gmail.com
 👤 Pronouns: He/Him
-⚙️ Fun fact: Passionate about innovative tech and enjoy building creative coding solutions during free time
+⚙️ Passionate about innovative tech and enjoy building creative coding solutions during free time
