@@ -26,3 +26,11 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![SriparnoRoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriparnoRoy&show_icons=true&theme=tokyonight)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriparnoRoy&layout=compact&theme=tokyonight)
+
