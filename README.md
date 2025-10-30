@@ -11,6 +11,7 @@
 
 ## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriparno-roy)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SRIPARNOROY)
 
 ---
@@ -34,4 +35,3 @@
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriparnoRoy&layout=compact&theme=tokyonight)
-
