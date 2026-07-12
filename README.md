@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @SriparnoRoy
 
-💡 **Interested in:** Programming, tech content creation, and Arduino projects  
-🧠 **Currently learning:** C++ development, embedded systems, and creating tech-focused YouTube videos  
-🤝 **Open to:** Collaborations on C++ projects, Arduino systems, and coding tutorials for YouTube  
+💡 **Interested in:** Industrial automation, embedded systems, electronics, and programming  
+🧠 **Currently learning:** C++ development, embedded systems, PLC automation, and industrial control technologies  
+🤝 **Open to:** Collaborations on embedded systems, Arduino/ESP32 projects, automation systems, and C++ projects  
 📩 **Contact:** sriparnoroy4@gmail.com  
 👤 **Pronouns:** He/Him  
-⚙️ **Passionate about:** Innovative tech and building creative coding solutions during free time  
+⚙️ **Passionate about:** Building innovative automation, embedded, and electronics-based engineering solutions  
 
 ---
 
